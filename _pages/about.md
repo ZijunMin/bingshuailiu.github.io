@@ -13,7 +13,7 @@ I am a first-year master's degree student of Xiamen University, advised by [Dr. 
 
 # Publications
 
-**Exploring Optimal Transport-Based Multi-Grained Alignments for Text-Molecule Retrieval.** **_BIBM 2024_**
+**Exploring Optimal Transport-Based Multi-Grained Alignments for Text-Molecule Retrieval.** **_BIBM 2024 Regular Paper_**
 
 **Zijun Min***, Bingshuai Liu\*, Liang Zhang, Jia Song, Jinsong Su, Song He, and Xiaochen Bo.
 
