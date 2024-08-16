@@ -17,10 +17,6 @@ I am a first-year master's degree student of Xiamen University, advised by [Dr. 
 
 **Zijun Min***, Bingshuai Liu\*, Liang Zhang, Jia Song, Jinsong Su, Song He, and Xiaochen Bo.
 
-<a href="https://arxiv.org/abs/2312.01714" title="RA-CoT">**Retrieval-augmented Multi-modal Chain-of-Thoughts Reasoning for Large Language Models.**</a>
-
-Bingshuai Liu\*, Chenyang Lyu*, **Zijun Min**, Zhanyu Wang, Jinsong Su, and Longyue Wang.
-
 <a href="https://www.ijcai.org/proceedings/2023/0586.pdf" title="Inter-Encoder">**Exploring Effective Inter-Encoder Semantic Interaction for Document-Level Relation Extraction.** </a> **_IJCAI 2023_**
 
 Liang Zhang, **Zijun Min**, Jinsong Su, Pei Yu, Ante Wang, Yidong Chen. 
@@ -29,11 +25,13 @@ Liang Zhang, **Zijun Min**, Jinsong Su, Pei Yu, Ante Wang, Yidong Chen.
 
 Liang Zhang, Jinsong Su, **Zijun Min**, Zhongjian Miao, Qingguo Hu, Biao Fu, Xiaodong Shi, Yidong Chen.
 
-
-
 <a href="https://arxiv.org/abs/2211.14470" title="Iterative-Inference">**Towards better document-level relation extraction via iterative inference.** </a> **_EMNLP 2023_**
 
 Liang Zhang, Jinsong Su, Yidong Chen, Zhongjian Miao, **Zijun Min**, Qingguo Hu, Xiaodong Shi.
+
+<a href="https://arxiv.org/abs/2312.01714" title="RA-CoT">**Retrieval-augmented Multi-modal Chain-of-Thoughts Reasoning for Large Language Models.**</a>
+
+Bingshuai Liu*, Chenyang Lyu*, **Zijun Min**, Zhanyu Wang, Jinsong Su, and Longyue Wang.
 
 
 # Internships
