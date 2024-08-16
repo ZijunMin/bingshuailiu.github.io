@@ -33,7 +33,7 @@ Liang Zhang, Jinsong Su, **Zijun Min**, Zhongjian Miao, Qingguo Hu, Biao Fu, Xia
 
 <a href="https://arxiv.org/abs/2211.14470" title="Iterative-Inference">**Towards better document-level relation extraction via iterative inference.** </a> **_EMNLP 2023_**
 
-Liang Zhang, Jinsong Su, Yidong Chen, Zhongjian Miao, **Zijun Min**, Qingguo Hu, Xiaodong Shi.  (CCF-B).
+Liang Zhang, Jinsong Su, Yidong Chen, Zhongjian Miao, **Zijun Min**, Qingguo Hu, Xiaodong Shi.
 
 
 # Internships
