@@ -13,21 +13,28 @@ I am a first-year master's degree student of Xiamen University, advised by [Dr. 
 
 # Publications
 
-<a href="https://arxiv.org/abs/2307.02971" title="Cultural Gap">**On the cultural gap in text-to-image generation.**</a> **_ECAI 2024_**
-
-**Bingshuai Liu\***, Longyue Wang*, Chenyang Lyu, Yong Zhang, Jinsong Su, Shuming Shi, and Zhaopeng Tu.
-
 **Exploring Optimal Transport-Based Multi-Grained Alignments for Text-Molecule Retrieval.** **_BIBM 2024_**
 
-Zijun Min*, **Bingshuai Liu\***, Liang Zhang, Jia Song, Jinsong Su, Song He, and Xiaochen Bo.
+**Zijun Min***, Bingshuai Liu\*, Liang Zhang, Jia Song, Jinsong Su, Song He, and Xiaochen Bo.
 
 <a href="https://arxiv.org/abs/2312.01714" title="RA-CoT">**Retrieval-augmented Multi-modal Chain-of-Thoughts Reasoning for Large Language Models.**</a>
 
-**Bingshuai Liu\***, Chenyang Lyu*, Zijun Min, Zhanyu Wang, Jinsong Su, and Longyue Wang.
+Bingshuai Liu\*, Chenyang Lyu*, **Zijun Min**, Zhanyu Wang, Jinsong Su, and Longyue Wang.
 
-<a href="https://arxiv.org/abs/2306.09093" title="Macaw-LLM">**Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration.**</a>
+<a href="https://www.ijcai.org/proceedings/2023/0586.pdf" title="Inter-Encoder">**Exploring Effective Inter-Encoder Semantic Interaction for Document-Level Relation Extraction.** </a> **_IJCAI 2023_**
 
-Lyu, Chenyang, Minghao Wu, Longyue Wang, Xinting Huang, **Bingshuai Liu**, Zefeng Du, Shuming Shi, and Zhaopeng Tu.
+Liang Zhang, **Zijun Min**, Jinsong Su, Pei Yu, Ante Wang, Yidong Chen. 
+
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26635" title="Self-Distill"> **Exploring self-distillation based relational reasoning training for document-level relation extraction.** </a> **_AAAI 2023_**
+
+Liang Zhang, Jinsong Su, **Zijun Min**, Zhongjian Miao, Qingguo Hu, Biao Fu, Xiaodong Shi, Yidong Chen.
+
+
+
+<a href="https://arxiv.org/abs/2211.14470" title="Iterative-Inference">**Towards better document-level relation extraction via iterative inference.** </a> **_EMNLP 2023_**
+
+Liang Zhang, Jinsong Su, Yidong Chen, Zhongjian Miao, **Zijun Min**, Qingguo Hu, Xiaodong Shi.  (CCF-B).
+
 
 # Internships
-- 2022.08-2023.07: Tencent AI Lab, Shenzhen. Methors: Dr. Longyue Wang and Dr. Zhaopeng Tu.
+- 2022.09-2023.07: Kwai MMU Natural Language Processing Center.
